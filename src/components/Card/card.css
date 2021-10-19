@@ -3,6 +3,11 @@
   position: relative;
 }
 
+.img-container img {
+ max-height: 8rem !important;
+ object-fit: contain !important;
+}
+
 .img-container .icon-container {
   position: absolute;
   bottom: 4px;

@@ -37,6 +37,10 @@
   position: relative;
   cursor: pointer;
 }
+.play img{
+  max-height:10rem !important ;
+  object-fit: cover !important;
+}
 
 .play .overlay {
   position: absolute;
